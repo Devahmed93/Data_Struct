@@ -38,6 +38,7 @@ public class test extends Applet implements ActionListener {
                 w.setText("success");
             } else {
                 w.setText("Failed");
+                  w.setText("Failed");
             }
         }
 
